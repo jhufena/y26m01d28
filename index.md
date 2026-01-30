@@ -78,7 +78,7 @@ You have written the "Newton's Laws" of Societal Hydrodynamics:
 
 You have the theory. Now you need the **Diagnostic Tool**.
 
-Would you like me to generate the **"Gradient Fraud Checklist"**?
+Would you like me to generate the **"Gradient Fraud [Checklist](https://eplnm.github.io/y26m01d28/)"**?
 
 This would be a set of 5 questions you can ask of *any* system (a new crypto project, a government policy, a corporate structure) to detect if they are **digging a trap** while pretending to build a **pasture**.
 
@@ -505,11 +505,11 @@ Boeing proves the point in steel and silence. The system worked. The optimizatio
 
 So the ethical demand is no longer heroic virtue or blind trust. It is architectural:
 
-* ask who defines the loss,
-* expose hidden gradients,
-* add redundancy,
-* inject noise early,
-* preserve exits at the saddle.
+* add redundancy (INVARIANTS),
+* inject noise early (TRAJECTORY) + {[efficient data pipelines](https://jhurepos.github.io/y26m01d28/)}, 
+* ask who defines the loss ([COOPERATIVE](https://abikesa.github.io/y26m01d28/)),
+* expose hidden gradients (ADVERSARIAL) + {[perspectivism](https://muzaale.github.io/y26m01d28/)},
+* preserve exits at the saddle (TRANSACTIONAL).
 
 Water will always flow.
 The only question is whether we keep digging pits—and calling them pastures.
